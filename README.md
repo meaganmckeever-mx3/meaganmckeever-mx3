@@ -15,7 +15,7 @@ I have spent 16 years moving complex R&D and manufacturing work from problem def
 - [**Echograph**](https://github.com/meaganmckeever-mx3/echograph) — local-first audio intelligence and cited knowledge hypergraphs, with configurable Mistral generative stages and 85 offline tests.
 - [**Food Science Knowledge Base + R&D Copilot**](https://github.com/meaganmckeever-mx3/food-science-kb) — GraphRAG tooling, extraction pipeline, skill, playbook, and MCP connector for food-science knowledge.
 - [**riverlib**](https://github.com/meaganmckeever-mx3/riverlib) — two-dimensional shallow-water solver in NumPy and Numba with a physics acceptance suite.
-- [**VOID / data-center-distillery**](https://github.com/meaganmckeever-mx3/data-center-distillery) — circular data-center heat reuse for fermentation, brewing, and distillation, modeled through source-tagged energy balances and tested assumptions.
+- [**VOID / data-center-distillery**](https://github.com/meaganmckeever-mx3/data-center-distillery) — an open, in-development circular heat-reuse system for fermentation, brewing, and distillation. Bou and I planned the process skid and produced the P&ID; I am publishing the scoping work now and will open-source the data from each build test.
 
 Other work includes **Building Buddy**, a project-management system and extraction pipeline for R&D; a food-science evaluation for AI models; symbolic-regression fine-tuning; and heat-transfer CFD for food safety, product quality, and equipment validation.
 
