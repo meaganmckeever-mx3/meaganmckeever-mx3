@@ -17,7 +17,7 @@ I have spent 16 years moving complex R&D and manufacturing work from problem def
 - [**riverlib**](https://github.com/meaganmckeever-mx3/riverlib) — two-dimensional shallow-water solver in NumPy and Numba with a physics acceptance suite.
 - [**VOID / data-center-distillery**](https://github.com/meaganmckeever-mx3/data-center-distillery) — an open, in-development circular heat-reuse system for fermentation, brewing, and distillation. Bou and I planned the process skid and produced the P&ID; I am publishing the scoping work now and will open-source the data from each build test.
 
-Other work includes **Building Buddy**, a project-management system and extraction pipeline for R&D; a food-science evaluation for AI models; symbolic-regression fine-tuning; and heat-transfer CFD for food safety, product quality, and equipment validation.
+Other work includes **Building Buddy**, a private tool-using R&D agent, project-management system, and source-pinned extraction pipeline; a food-science evaluation for AI models; symbolic-regression fine-tuning; and heat-transfer CFD for food safety, product quality, and equipment validation.
 
 ## Selected outcomes
 
