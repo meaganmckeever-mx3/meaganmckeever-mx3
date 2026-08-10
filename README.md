@@ -12,7 +12,7 @@ I have spent 16 years moving complex R&D and manufacturing work from problem def
 
 - [**Protein Pal**](https://proteinpal.app) — production scientific software for protein quality, nutrition calculations, and formulation work.
 - [**whatsoRAG**](https://whatsorag.vercel.app) — live visual workbench for designing ingestion, extraction, retrieval, and multi-model architectures.
-- [**Echograph**](https://github.com/meaganmckeever-mx3/echograph) — local-first audio intelligence and cited knowledge hypergraphs, spanning transcription, diarization, structured extraction, retrieval, clustering, publishing, and automated evaluation.
+- [**Echograph**](https://github.com/meaganmckeever-mx3/echograph) — local-first audio intelligence and cited knowledge hypergraphs, with configurable Mistral generative stages and 85 offline tests.
 - [**Food Science Knowledge Base + R&D Copilot**](https://github.com/meaganmckeever-mx3/food-science-kb) — GraphRAG tooling, extraction pipeline, skill, playbook, and MCP connector for food-science knowledge.
 - [**riverlib**](https://github.com/meaganmckeever-mx3/riverlib) — two-dimensional shallow-water solver in NumPy and Numba with a physics acceptance suite.
 - [**VOID / data-center-distillery**](https://github.com/meaganmckeever-mx3/data-center-distillery) — circular data-center heat reuse for fermentation, brewing, and distillation, modeled through source-tagged energy balances and tested assumptions.
